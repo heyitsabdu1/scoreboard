@@ -1,0 +1,44 @@
+
+body {
+    margin: 0;
+    background-color: orange;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+h3 {
+    text-align: center;
+    
+}
+
+.score {
+    font-family: 'Cursed Timer ULiL', sans-serif;;
+    color: red;
+    text-align: center;
+    height: 60px;          
+    line-height: 60px;
+    background-color: black;
+  
+    
+    
+
+    
+ 
+}
+
+
+
+.titles {
+    color: white;
+    font-size: 25px;
+    margin-bottom: 3px;
+    
+}
+
+
+.goals {
+    
+}
